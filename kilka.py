@@ -1,0 +1,1 @@
+print('jojo bizzare adventure')
